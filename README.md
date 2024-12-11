@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A Passionate Cloud Technologies Learner and Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiatgit&label=Profile%20views&color=0e75b6&style=flat" alt="rishiatgit" /> From 12 DECEMBER 2024 Onwards </p>
+<p align="left">From 12 DECEMBER 2024 Onwards <img src="https://komarev.com/ghpvc/?username=rishiatgit&label=Profile%20views&color=0e75b6&style=flat" alt="rishiatgit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishiatgit" alt="rishiatgit" /></a> </p>
 
